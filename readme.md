@@ -27,9 +27,10 @@ theirs. The end result is that each partner should have the experience of the te
 
 ### 3. Both Partners ACCEPT THE Assignment GITHUB to create their own GitHub repo, so each person has the chance to do all the steps and practice makes perfect...
 
-1. Partner 1: [Ramya](https://github.com/RamyaKammari) <-change to you or your partner
-2. Partner 2: [Vikram](https://github.com/vikramsaix) <-change to you or your partner
-3. Partner 3: [Abhishek](https://github.com/abhishek-07)
+
+1. Partner 1: [Abhishek Reddy](https://github.com/abhishek-07) 
+2. Partner 2: [Vikram](https://github.com/vikramsaix) 
+3. Partner 3: [Ramya](https://github.com/RamyaKammari)
 
 Complete this on each partner's repos for this assignment by following the development workflow process bellow. Since
 you are updating just the [readme.md](readme.md) file, you won't see any changes on localhost. But maybe you can
