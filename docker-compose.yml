@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
     master_branch:
-      image: abhishek-07/mywebclass:master
+      image: abhishekreddypolice1/module1:master
       container_name: master_branch
       pull_policy: always
       restart: always
